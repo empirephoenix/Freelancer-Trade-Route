@@ -10,5 +10,5 @@ If someone wants to maintain this feel free to fork or make pull requests.
 #How to use
 java -jar tool.jar 1500 c:/freelancer/
 
-#The extracted symbols in the files folder are matching for Crossfire 2.0, please note that it might be required to extract them for other / newer mods
+*The extracted symbols in the files folder are matching for Crossfire 2.0, please note that it might be required to extract them for other / newer mods
 
