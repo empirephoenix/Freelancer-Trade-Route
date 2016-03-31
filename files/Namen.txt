@@ -1,0 +1,7 @@
+INSERT INTO system VALUES = System Namen
+
+
+INSERT INTO base VALUES = Stations Namen
+
+
+UNIQUE (nickname)); = Commodity Namen
